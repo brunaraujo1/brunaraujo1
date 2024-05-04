@@ -1,10 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=brunaaraujo1&color=ff69b4"><br><div align="center">
 </div><br><div align="center">
   <!-- Work Links -->
-  <a href="https://web.digitalinnovation.one/users/brunaaraujo1" target="_blank"><img src="https://img.shields.io/badge/DIO-green?style=for-the-badge&logoColor=white&color=pink" target="_blank"></a> <a href="https://github.com/brunaaraujo1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunaaraujo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://web.digitalinnovation.one/users/brunaaraujo324" target="_blank"><img src="https://img.shields.io/badge/DIO-green?style=for-the-badge&logoColor=white&color=pink" target="_blank"></a> <a href="https://github.com/brunaraujo1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunaantasaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/brunamour.a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/brunaaraujo1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/bruna0537" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ## ⭐️ Sobre mim
